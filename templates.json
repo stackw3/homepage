@@ -18,6 +18,21 @@
     },
     {
         "id": 2,
+        "name": "new-template2",
+        "sha": "047d525f71684792a96d5a78b09a6af7404d6ec8",
+        "description": "This is description of new-template2",
+        "tags": [
+            "react",
+            "node",
+            "aws"
+        ],
+        "dependencies": [
+            "axios",
+            "node-fetch"
+        ]
+    },
+    {
+        "id": 3,
         "name": "next-hover-base",
         "sha": "310bd95068b22fd2974d55e7dda6810a3da138f8",
         "description": "🚀 A Next.js quick start project template powered by hover.style",
@@ -35,7 +50,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "next-react-query",
         "sha": "a2263ad4631cb3b819bf9c21a503dd306f9cd1b9",
         "description": "🚀 A Next.js quick start project template with React Query implementation",
@@ -53,7 +68,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "react-base-router-configs",
         "sha": "f5f1c3763234fff9e70b12c78510cf6a2520fbdd",
         "description": "Starter Base-React project that includes react-router-dom v6 powered by vite.",
@@ -85,7 +100,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "react-base-testing-library-apollo",
         "sha": "d308fd54aa051b0b3c4e5ef26d2c4048f8f2f295",
         "description": "A Quick react starter project template powered by vite with React Testing Library. A testing utility tool that's built to test the actual DOM tree rendered by React on the browser.",
@@ -117,7 +132,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "react-base-testing-library-react-query",
         "sha": "8f26d65ca4fcd894cd071d39984d96f45f912a87",
         "description": "A Quick react starter project template powered by vite with React Testing Library and React Query, The missing data-fetching library for React, but in more technical terms, it makes fetching, caching, synchronizing and updating server state in your React applications a breeze",
@@ -155,7 +170,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "react-base-testing-library",
         "sha": "f91385795b64aa17888d2c0f485fa57a5dffdbb2",
         "description": "A Quick react starter project template powered by vite with React Testing Library. A testing utility tool that's built to test the actual DOM tree rendered by React on the browser.",
@@ -187,7 +202,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "react-base",
         "sha": "067a9391ebc550262a19a49cb37f735f5bc597ef",
         "description": "🚀 A React quick start project template powered by vite.",
@@ -220,7 +235,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "test-template1",
         "sha": "e4b81dc34d6a88032eb5e406189515ccfac20af0",
         "description": "A test template to test our new feature. This will automatically list new template which gets merged in our monorepo.",
