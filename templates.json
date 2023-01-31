@@ -218,5 +218,32 @@
             "vite",
             "husky"
         ]
+    },
+    {
+        "id": 9,
+        "name": "react-native-typescript",
+        "sha": "951171d16aa4ac29cca1ad4e13b9ec1639eb045e",
+        "description": "🚀 A React-Native quick start project with typescript template.",
+        "tags": [
+            "react-native",
+            "react-native-cli",
+            "react",
+            "typescript"
+        ],
+        "dependencies": [
+            "@react-navigation/native",
+            "@react-navigation/stack",
+            "@shopify/flash-list",
+            "axios",
+            "lottie-ios",
+            "lottie-react-native",
+            "react-native-device-info",
+            "react-native-fast-image",
+            "react-native-gesture-handler",
+            "react-native-reanimated",
+            "react-native-safe-area-context",
+            "react-native-screens",
+            "react-native-svg"
+        ]
     }
 ]
