@@ -189,7 +189,7 @@
     {
         "id": 8,
         "name": "react-base",
-        "sha": "067a9391ebc550262a19a49cb37f735f5bc597ef",
+        "sha": "a679c11e90cccbb1fbc89d34b71b2320dc20a54e",
         "description": "🚀 A React quick start project template powered by vite.",
         "tags": [
             "react",
