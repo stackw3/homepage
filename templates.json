@@ -245,5 +245,23 @@
             "react-native-screens",
             "react-native-svg"
         ]
+    },
+    {
+        "id": 10,
+        "name": "@akhilvc10/vite-vanilla-extract",
+        "maintainBy": "akhilvc10",
+        "sha": "00000",
+        "description": "A Quick vite vanilla extract starter project template.",
+        "tags": [
+            "vite",
+            "vanilla"
+        ],
+        "dependencies": [
+            "react",
+            "react-dom",
+            "react-router-dom",
+            "@vanilla-extract/vite-plugin",
+            "@vanilla-extract/recipes"
+        ]
     }
 ]
