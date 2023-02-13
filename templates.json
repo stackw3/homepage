@@ -259,7 +259,7 @@
         "id": 10,
         "name": "@akhilvc10/vite-vanilla-extract",
         "maintainBy": "akhilvc10",
-        "sha": "00000",
+        "sha": "main",
         "description": "A Quick vite vanilla extract starter project template.",
         "tags": [
             "vite",
