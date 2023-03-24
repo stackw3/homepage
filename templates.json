@@ -257,20 +257,17 @@
     },
     {
         "id": 10,
-        "name": "@akhilvc10/vite-vanilla-extract",
-        "maintainBy": "akhilvc10",
+        "name": "@ceejeey/Ideal-frontend",
+        "maintainBy": "ceejeey",
         "sha": "main",
-        "description": "A Quick vite vanilla extract starter project template.",
+        "description": "Ideal frontend starter project template.",
         "tags": [
             "vite",
-            "vanilla"
+            "react"
         ],
         "dependencies": [
             "react",
-            "react-dom",
-            "react-router-dom",
-            "@vanilla-extract/vite-plugin",
-            "@vanilla-extract/recipes"
+            "react-dom"
         ]
     }
 ]
